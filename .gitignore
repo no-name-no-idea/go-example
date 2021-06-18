@@ -1,0 +1,2 @@
+#vendor 제거 사용자가 직접 go mod vendor
+vendor/
